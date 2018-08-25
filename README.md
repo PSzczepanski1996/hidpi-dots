@@ -3,10 +3,10 @@ My dual monitors setup script, autorunner for it (.desktop), and some
 protips for high resolution monitors.
 
 ### Files in project:
-* hidpi.sh - setup 4k resolution on left FullHD monitor because single 
+* `hidpi.sh` - setup 4k resolution on left FullHD monitor because single 
 monitor scaling is not supported on Xorg.
-* HiDPI.desktop - shortcut for launching it under .config/autostart 
-(edit your user name in path)
+* `HiDPI.desktop` - shortcut for launching it under `.config/autostart` 
+(edit your user name in path).
 
 ### Issues:
 * Discord can launch without HiDPI scaling, though about it because of 
@@ -21,6 +21,6 @@ I use 200% because of ~24 inch based monitors.
 * HydraPaper for now is buggy and can't setup wallpaper for each 
 monitor, you should use built-in gnome selector - needs to be fixed by 
 author. Confirmed that the same issue appears on Deepin 
-(https://github.com/GabMus/HydraPaper/issues/31)
+(https://github.com/GabMus/HydraPaper/issues/31).
 
 *To be continued...*
