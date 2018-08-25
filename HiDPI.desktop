@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=HiDPI setup
+Exec=/home/hoshi/hidpi.sh
+Type=Application
+Icon=system-run
+X-GNOME-Autostart-enabled=true
+Name[pl_PL]=HiDPI.desktop
