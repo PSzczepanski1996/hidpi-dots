@@ -1,6 +1,5 @@
 # hidpi_dots
-My dual monitors setup script, autorunner for it (.desktop), and some 
-protips for high resolution monitors.
+My dual monitors setup script and some protips for high resolution monitors.
 
 ### Script for my desktop:
 * `hidpi.sh` - setup 4k resolution on left FullHD monitor because single 
