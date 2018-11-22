@@ -1,4 +1,4 @@
-# hidpi_dots
+# hidpi-dots
 My dual monitors setup script and some protips for high resolution monitors.
 
 ### Script for my desktop:
