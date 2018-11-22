@@ -6,7 +6,7 @@ My dual monitors setup script and some protips for high resolution monitors.
 monitor scaling is not supported on Xorg.
 * `lodpi.sh` - do otherwise that do hidpi.sh - set FullHD resolution on 4k monitor.
 
-#### Both scripts uses xrandr, overwrites gnome-shell scaling and restart it.
+##### Both scripts uses xrandr, overwrites gnome-shell scaling and restart it.
 
 ### Issues:
 * My monitors when go into sleep state or I shutdown them are unplugged 
