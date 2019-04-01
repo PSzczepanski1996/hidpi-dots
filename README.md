@@ -30,7 +30,7 @@ And because of that configuration of sway displays is hard. Also I have Lenovo E
 So, there is my solution:
 
 * `disp.py` - Convert `swaymsg -t get_outputs` pretty string to JSON, and after that find
-my displays, set correct configs and disaple lenovo explorer.
+my displays, set correct configs and disable lenovo explorer.
 
 ### Issues:
 * I hate bash.
