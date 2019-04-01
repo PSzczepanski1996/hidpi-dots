@@ -24,4 +24,16 @@ monitor, you should use built-in gnome selector - needs to be fixed by
 author. Confirmed that the same issue appears on Deepin 
 (https://github.com/GabMus/HydraPaper/issues/31).
 
-*To be continued...*
+# Pretty much above content is outdated. Now I use wayland.
+So there is an problem when using Wayland on my machine that causes random display names...
+And because of that configuration of sway displays is hard. Also I have Lenovo Explorer...
+So, there is my solution:
+
+* `disp.py` - Convert `swaymsg -t get_outputs` pretty string to JSON, and after that find
+my displays, set correct configs and disaple lenovo explorer.
+
+### Issues:
+* I hate bash.
+* I really hate bash.
+* Python is better lol'd.
+* I don't know about more issues.
